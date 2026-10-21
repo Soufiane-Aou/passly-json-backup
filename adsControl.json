@@ -2,7 +2,7 @@
   "ads_unites" : {
     "_":"________/Chose_ad_network/________________________",
     "NetworkAds":"applovin",
-    "dontShowAnyAds":"false",
+    "dontShowAnyAds":"true",
 
     "____":"________/interstitial_rules/________________________",
     "MAX_NUMBER_INTER_SHOW" : 1,
